@@ -30,9 +30,8 @@ class AppBarWidget extends PreferredSize {
                            ),
                           Container(
                             decoration: BoxDecoration(color: HexColor("#00C2CB"),),
-                            child: ElevatedButton(
-                              child: Icon(Icons.help_outline_rounded, color: Colors.white, size: 40,),
-                            )),
+                            child: Icon(Icons.help_outline_rounded, color: Colors.white, size: 40,),
+                            ),
                         ],
                       ),
                     ),

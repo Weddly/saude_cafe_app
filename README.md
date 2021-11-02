@@ -1,4 +1,4 @@
-# flower_detection_app
+# saude_cafe_app
 
 A new Flutter application.
 

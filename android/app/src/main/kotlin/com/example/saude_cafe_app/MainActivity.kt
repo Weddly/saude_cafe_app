@@ -1,4 +1,4 @@
-package com.example.flower_detection_app
+package com.example.saude_cafe_app
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flower_detection_app">
+    package="com.example.saude_cafe_app">
    <application
         android:label="Saúde Café"
         android:icon="@mipmap/ic_launcher">
